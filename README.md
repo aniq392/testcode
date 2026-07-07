@@ -1,4 +1,9 @@
 # testcode
+
+속성: Pulbic 
+
+github의 모든 기능을 사용을 할 수 있다. 좋음.
+
 test code read me
 
 test in pc 
